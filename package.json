@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "Command Line RPG",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnNielsen1221/jest-another-RPG.git"
+  },
+  "author": "John Nielsen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JohnNielsen1221/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/JohnNielsen1221/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
